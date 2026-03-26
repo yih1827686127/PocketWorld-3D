@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+world/
+
+# Generated 3D Files 
+*.ply
+output_splat.ply
+output_splat_direct.ply
+
+# OS Files
+.DS_Store
+Thumbs.db
